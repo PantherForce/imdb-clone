@@ -10,7 +10,8 @@ const Header = ()=>{
                
                <Link to = "/"></Link>
                <Link to =" ">Popular</Link>
-              
+               <Link to = "">Top Rated</Link>
+               <Link to = " ">Upcoming</Link>
 
             </div>
         </div>
